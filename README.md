@@ -7,7 +7,7 @@ Built using **Python and Streamlit**, this project demonstrates concepts of **Ge
 
 ---
 
-# 🌐 Features
+#  Features
 
 ### 🎲 Random Fake News Generator
 Generates random satirical news headlines using predefined templates.
@@ -18,12 +18,12 @@ Users can enter a topic and the system generates a humorous AI-style fake news h
 ### 🌍 Trending News Section
 Fetches trending news headlines using **Google News RSS** and displays them as modern cards with images.
 
-### 🌙 Modern Dark UI
+### 🌙Modern Dark UI
 Clean and visually appealing interface with cards, images, and responsive layout.
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 - Python
 - Streamlit
@@ -33,7 +33,7 @@ Clean and visually appealing interface with cards, images, and responsive layout
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 fake-news-ai-generator
 │
